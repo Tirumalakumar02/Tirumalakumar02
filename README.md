@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TIRUMALA KUMAR BEHARA</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arkatechture.com%2Fblog%2Fdata-analytics-infrastructure&psig=AOvVaw1PhOhrqRwAdi0sEIhFkR4n&ust=1692036754330000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiOpZye2oADFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24090007&psig=AOvVaw2NTIqqs_sFs0lcEDPxz49S&ust=1692037093255000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDktr2f2oADFQAAAAAdAAAAABAV)"
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Tirumalakumar02/Tirumalakumar02/assets/132464791/2fab6cd1-0645-4ede-bc18-d33a6dbedf5f)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirumalakumar02&label=Profile%20views&color=0e75b6&style=flat" alt="tirumalakumar02" /> </p>
 
